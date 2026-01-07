@@ -1,7 +1,9 @@
-# FlappyHellBird
-Hellish flappy bird
+# Hellish Flappy Bird 🔥
 
-# Getting Started
+Hellish Flappy Bird is a dark, hell-themed reimagining of the classic Flappy Bird game.
+
+Built for fun, frustration, and fast restarts.  
+Perfect for testing reflexes and patience.
 
 Run Locally
 
